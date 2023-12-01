@@ -1,0 +1,6 @@
+{
+    "name": "idstar/testing",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
